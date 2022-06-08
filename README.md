@@ -8,7 +8,7 @@
 
 💬 Ask me about Flutter Delopment
 
-📫 How to reach me: amiurlappsdeveloper@gmail.com
+📫 How to reach me: amirul.csejust@gmail.com
 
 ⚡ Fun fact I like to refactor old code.
 
