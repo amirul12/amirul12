@@ -1,4 +1,4 @@
-![Amirul Islam - Cover Photo](https://raw.githubusercontent.com/amirul12/amirul12/master/amirul.png)
+![Amirul Islam - Cover Photo](https://raw.githubusercontent.com/amirul12/amirul12/master/amirulislam.png)
 
 ### Hi there 👋
 
