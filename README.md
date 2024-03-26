@@ -2,6 +2,18 @@
 
 ### Hi there 👋
 
+With a solid background in software development and a specialization in Flutter, Md Amriul Islam is an accomplished developer known for crafting robust and scalable mobile applications.
+- Proficient in Flutter framework for cross-platform mobile app development
+- Strong understanding of design patterns and development architecture
+- Expertise in UI/UX design principles and implementation
+- Utilized design patterns like MVC, MVVM, and Clean Architecture to ensure maintainability and scalability.
+- Experience with state management solutions such as Provider, Bloc,
+- Knowledge of Dart programming language and its features
+- Familiarity with RESTful APIs integration and backend services
+- Ability to optimize app performance and responsiveness
+- Experience with version control systems like Git
+
+
 ### Here are some ideas to get you started:
 
 🔭 I’m currently working on a Flutter ( Dart ) and  Android ( Java ) Developer
