@@ -14,8 +14,8 @@
 
 #### Stats:
 
-![Anis Uddin Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirul12&show_icons=true&count_private=true) 
-![Anis Uddin Ahmad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=amirul12&layout=compact)
+![Amirul Islam 's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirul12&show_icons=true&count_private=true) 
+![Amirul Islam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=amirul12&layout=compact)
 
 ⚡ Fun fact I like to refactor old code.
 #CI CD Flutter Application Build and Android, iOS , Windows Application 
